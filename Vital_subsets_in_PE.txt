@@ -1,0 +1,8 @@
+Total B: Naive B 1; Naive B 2; Naive B 3; Unswitched Memory B; Switched Memory B 1; Switched Memory B 2; Plasma B
+Total T and NK: XCL+ NK; CD16+ NK; CD160+ NK; CD8+ NK-like; CD8+ CTL; CD8+ Tn 1; CD8+ Tn 2; MAIT; CD4+ Tcm; CD4+ Tm; CD4+ Tn 1; CD4+ Tn 2; Treg; Cycling T; γδT
+CD4+ Tn 2
+CD8+ Tn 2
+Mono
+IFN+ non-classical Mono
+Treg
+Classical Mono
